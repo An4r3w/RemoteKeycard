@@ -7,7 +7,6 @@ Yos, actually this plugin is a Pre-Release, this plugin is not working. I put he
 # FAQ
 Q: This Plugin not works!
 A: Yo, read up here
-
 Q: Why you put on GitHub if this plugin not works?
 A: If someone want help me, i will be a happy boi.
 
