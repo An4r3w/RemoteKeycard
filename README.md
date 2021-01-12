@@ -16,4 +16,4 @@ A: If someone want help me, i will be a happy boi.
 
 # Configs
 
-No config a te moment.
+No config a the moment.
